@@ -37,7 +37,7 @@
 ![image](https://user-images.githubusercontent.com/68341128/215111524-0dcfebff-2395-4611-83fa-92baa2d40a4e.png)
 #### 4. Choice your directory location, and then click select folder:
 ![image](https://user-images.githubusercontent.com/68341128/215112570-0485383a-bbd5-4762-b682-0d73e5ad1fa7.png)
-#### 5. After this it should added the extension successfully:
+#### 5. After this it should added the extension (Tracker leads) successfully:
 ![image](https://user-images.githubusercontent.com/68341128/215112887-64051c77-d274-44cc-8d1a-10995ec28b67.png)
 #### 6. You can use the extension
 ![image](https://user-images.githubusercontent.com/68341128/215113515-33326d7e-6c75-4fce-a591-9a8e0a902fd9.png)
