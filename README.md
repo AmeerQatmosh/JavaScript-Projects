@@ -33,7 +33,7 @@
 
 #### 1. Make sure you are using the Google chrome browser.
 #### 2. Go to Extensions page: chrome://extensions/
-#### 3. Mack sure that Developer mode is enabled, then click on Load unpacked button:
+#### 3. Make sure that Developer mode is enabled, then click on Load unpacked button:
 ![image](https://user-images.githubusercontent.com/68341128/215111524-0dcfebff-2395-4611-83fa-92baa2d40a4e.png)
 #### 4. Choice your directory location, and then click select folder:
 ![image](https://user-images.githubusercontent.com/68341128/215112570-0485383a-bbd5-4762-b682-0d73e5ad1fa7.png)
